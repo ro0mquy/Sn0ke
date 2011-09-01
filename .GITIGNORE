@@ -1,0 +1,11 @@
+# Pelles C Project Files #
+
+*.ppj
+*.ppx
+*.tag
+
+
+# Output #
+
+output/
+*.exe
